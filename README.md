@@ -1,4 +1,4 @@
-# Mi-primer-codigo
-Calculadora Python
-ahora hare una linda calculadora
+# Aplicacion del Algebra matricial creando Un vocabulario unico y una matriz de terminos
+
+
 
